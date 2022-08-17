@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shankar
-- 👀 I’m interested in web development and competitive coding
-- 🌱 I’m currently learning ReactJS and Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on a full-stack web application development
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Concepts of Deep Learning
+- 💞️ I’m looking to collaborate on a Machine learning/Deep learning project
 - 📫 shankar.ve007@gmail.com
 
 <!---
