@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shankar
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Computer Vision
 - 🌱 I’m currently working on interpreting Deep Learning vision models
 - 💞️ I’m looking to collaborate on explainable AI projects
 - 📫 shankar.ve007@gmail.com
